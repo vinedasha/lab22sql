@@ -1,0 +1,1 @@
+SELECT * FROM lab_schema1.t1 UNION SELECT * FROM lab_schema2.t1;
